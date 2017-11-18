@@ -1,0 +1,8 @@
+## Mooyeol Baek @ POSTECH
+## (mooyeol@postech.ac.kr)
+
+Before you run the tracker, please replace '/home/mooyeol/Documents/MATLAB/VOTnew16' into your pwd.
+
+	TCNN_submit/TCNNtrack.m
+	TCNN_submit/tracker_TCNN0614original.m
+	TCNN_submit/setup_gamma1.m

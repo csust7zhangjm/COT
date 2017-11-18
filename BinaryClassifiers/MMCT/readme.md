@@ -1,4 +1,5 @@
-Readme for paper "Multi-model Real-Time Compressive Tracking Real-Time Compressive Tracking," Kaihua Zhang, Lei Zhang, and Ming-Hsuan Yang
+Readme for paper "Multi-model Real-Time Compressive Tracking Real-Time Compressive Tracking" 
+
 Author: Jianming Zhang, Xiaokang Jin
 
 Email: jmzhang@csust.edu.cn			jxk726@163.com	
